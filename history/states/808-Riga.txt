@@ -1,0 +1,26 @@
+state = {
+	id = 808
+	name = "STATE_808"
+	manpower = 420250
+	buildings_max_level_factor = 1
+	state_category = city
+	
+	resources = {	steel = 1	}
+	
+	history = {
+		owner = LAT
+		add_core_of = LAT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 3
+			9340 = {	naval_base = 3	}
+		}
+		victory_points = {	9340	5	}
+	}
+	
+	provinces = {
+		9240	9340	10323
+	}
+}

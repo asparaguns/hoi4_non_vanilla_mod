@@ -1,0 +1,20 @@
+state = {
+	id = 873
+	name = "STATE_873"
+	manpower = 10000
+	buildings_max_level_factor = 1
+	state_category = pastoral
+	
+	history = {
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces = {
+		2116	2221	5198	10941	12949
+	}
+	local_supplies = 0.0
+}
